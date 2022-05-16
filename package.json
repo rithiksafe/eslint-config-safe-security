@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-safe-security",
   "version": "1.0.0",
-  "description": "ESLint shareable config for all Lucideus JS/TS Projects",
+  "description": "ESLint shareable config for all Safe-Security JS/TS Projects",
   "main": "index.js",
   "repository": "https://github.com/Safe-Security/eslint-config-safe-security",
   "author": "Aneesh Relan <aneesh.relan@gmail.com>",
