@@ -1,7 +1,5 @@
 # eslint-config-safe-security
 
-[![npm version](https://badge.fury.io/js/eslint-config-lucideus.svg)](https://badge.fury.io/js/eslint-config-lucideus)
-
 This package provides Safe-Security' .eslintrc as a shareable config
 
 ## Installation
@@ -9,7 +7,7 @@ This package provides Safe-Security' .eslintrc as a shareable config
 Refer [Updated Repository](https://github.com/Safe-Security/eslint-config-safe-security)
 
 ```shell
-npx install-peerdeps --dev eslint-config-lucideus
+npx install-peerdeps --dev eslint-config-safe-security
 ```
 
 - Confirm usage of `yarn`, if prompted
